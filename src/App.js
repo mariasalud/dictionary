@@ -13,7 +13,15 @@ export default function App() {
        <Dictionary defaultKeyword="sunset" />
        </main>
      <footer className="App-footer">
-       <small>Coded by Maria Garcia</small>
+       <small>This project was coded by Maria Garcia {""}
+         <a href="https://github.com/mariasalud/dictionary" target="_blank" rel="noreferrer"> 
+         Open-Source on GitHub
+          </a> {""}
+          and on {""}
+         <a href="https://festive-wilson-191d91.netlify.app" target="_blank" rel="noreferrer">
+          Netlify
+          </a>
+        </small>
      </footer>
      </div>
      </div>
